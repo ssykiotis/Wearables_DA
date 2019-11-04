@@ -67,3 +67,8 @@ tBodyAccJerkMean
 tBodyGyroMean
 tBodyGyroJerkMean
 
+================
+Data Summary:
+
+At the end of the analysis, a dataframe is produced. This dataframe contains the average of each feature presented above for every test subject and every activity. Only the variables calculating the mean and standard deviation of each feature are included.
+
